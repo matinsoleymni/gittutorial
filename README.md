@@ -131,6 +131,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Behnam Ebrahimi](https://github.com/behnam68engine)
 - [Bahar Hosseini 💻 🐧 ](https://github.com/bahar-hosseini)
 - [Mahdi Sharifi] (https://github.com/msharifi68)
+- [Foad Ebrahimi](https://github.com/foadEbrahimi) :wine_glass:
 - [Abolfazl Zahedi] (https://github.com/DevAbolfazl) - **⭐Jadi⭐**
 - [mohammad ramezani](https://github.com/mohramezani659)
 - [ᒎᗩᐯᗩᗪ ;)](https://github.com/mamad-jevad/)
